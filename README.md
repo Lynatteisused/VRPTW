@@ -9,7 +9,7 @@
   - 服务时间（Service Time）：车辆在客户点的停留时间。
 ### 数学模型
 1. 数学定义
-   | Symbols      | Description | Symbols      | Description |
+| Symbols      | Description | Symbols      | Description |
 | ----------- | ----------- | ----------- | ----------- |
 |  $V=\{0,1,...,n\}$     | 所有节点集合(0为配送中心，$1,…,n$为客户点)  |$K=\{1,...,m\}$|车辆集合|
 |$A={()|i,j \in V,i \neq j}$  | 弧集合 | $Q$ | 车辆容量 |
