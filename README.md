@@ -25,8 +25,11 @@
   - 2-opt:优化路径内顺序
 
 ## 3. 结果
+1. 车辆路径
+<img width="1200" height="800" alt="VRPTW Solution" src="https://github.com/user-attachments/assets/99f1b9a3-03da-4eee-8e4b-0cb8e60a3a52" />
 
-
+2. 时间复杂度
+   $O(iterations × n^4)$
 
 
 
